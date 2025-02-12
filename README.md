@@ -62,4 +62,5 @@ Visually impaired individuals face challenges in accessing essential food labeli
 • Expansion to IoT applications for wider accessibility beyond smartphones and Raspberry Pi.
 
 
+
 This project represents a promising step toward addressing the accessibility needs of diverse user groups, encouraging a more inclusive shopping experience, and empowering visually impaired individuals to navigate retail environments independently. As the technology continues to evolve, it holds great potential for transforming shopping experiences and fostering a more inclusive world for all
